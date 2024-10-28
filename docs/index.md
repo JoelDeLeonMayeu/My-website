@@ -1,21 +1,11 @@
-# Welcome to My Research Page
+# Hello, and welcome to my research page! 🧙‍♂️
 
 
-![Coma cluster](./media/Crab_Nebula.jpg "Crab Nebula"){align="left": style="height:150;width:150px"}
-Welcome to the digital platform of a dedicated physics graduate student committed to unraveling the intricacies of the cosmos. 
-Focused on the exploration of the profound Crab Nebula, a celestial phenomenon steeped in historical fascination, my research endeavors center on the application of advanced astrophysical methodologies and theoretical frameworks. 
-This platform serves as an invitation to accompany me on a scholarly journey into the depths of the universe. 
-Through meticulous investigation, I aim to elucidate the fundamental processes shaping the Crab Nebula, contributing substantively to the broader comprehension of the universe's extraordinary phenomena. 
-I extend a formal welcome to all who wish to engage with the frontiers of astrophysics through the lens of my ongoing research endeavors.
+![My mug](./media/myphoto.jpg "My mug"){align="left": style="height:150;width:150px"}
 
+My name is Joël De Leon Mayeu and I am a 1st year physics MSc student at McGill university under the supervision of [Pr. Tami Pereg-Barnea](https://pbtami.wixsite.com/mysite-1). 
 
-If you're like to learn more about me, you can find an introduction to [my research](./reasearch/research_index.md), some info on some [recent projects](./projects/project_index.md) and some more info [about me](./about/about.md).
+My main research interests are the study of condensed matter systems with interesting or exotic topological phases. I've mostly done work on the SSH model ([Su–Schrieffer–Heeger](https://en.wikipedia.org/wiki/Su%E2%80%93Schrieffer%E2%80%93Heeger_model)) and on [Weyl semi-metals](https://en.wikipedia.org/wiki/Weyl_semimetal).
 
-## Here is an equation
+If you're like to learn more about me, you can find an introduction to [my research](./reasearch/index.md), some info on some [recent projects](./projects/index.md) and some more info [about me](./about/index.md).
 
-$$ x = \frac{-b \pm \sqrt{b^2 -4ac}}{2a}$$
-
-## Here is the Crab Nebula
-
-[![Crab Nebula](./media/Crab_Nebula.jpg "Crab Nebula")](https://en.wikipedia.org/wiki/Crab_Nebula#)
-I got this image from [Wikipedia](https://en.wikipedia.org/wiki/Crab_Nebula).

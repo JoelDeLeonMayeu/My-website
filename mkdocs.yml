@@ -1,11 +1,11 @@
 # Change to your own name
-site_name: JoelDeLeonMayeu
+site_name: Joël De Leon Mayeu
 # Change to your own site
 site_url: https://github.com/JoelDeLeonMayeu/My-website.git # must have the trailing slash
-site_author: JoelDeLeonMayeu
-site_description: Research site for JoelDeLeonMayeu
+site_author: Joel De Leon Mayeu
+site_description: Research site for Joel De Leon Mayeu
 copyright: > # should remain a link to the original theme
-  &copy; 2023 JoelDeLeonMayeu <br>
+  &copy; 2023 Joel De Leon Mayeu <br>
   <a href="https://github.com/vuquangtrong/mkdocs-material-blog">Blog Theme</a> /
   <a href="https://squidfunk.github.io/mkdocs-material/">Material for MkDocs</a>
 
@@ -13,13 +13,14 @@ copyright: > # should remain a link to the original theme
 
 theme:
     name: material
+    color_mode: dark
     palette:
       # Palette toggle for light mode
       - scheme: default
         # Color of the top bar
-        primary: deep purple
+        primary: indigo
         # Link highlight color
-        accent : orange
+        accent : teal
         
         toggle:
           icon: material/brightness-7 

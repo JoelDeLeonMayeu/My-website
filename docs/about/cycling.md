@@ -1,3 +1,5 @@
-# My Cycling blog
+------__o
+-----_\ <,_
+----(_)/ (_)
 
-I've gotten a flat tire and there's snow outside. No cycling any time soon.
+A person on a very fast bike.
